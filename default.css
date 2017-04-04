@@ -1,0 +1,59 @@
+
+body {
+    margin: 0;
+    position: relative;
+}
+
+/*.con2 {
+    position: absolute;
+}*/ 
+.container {
+    display: table;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}
+
+.box1 {
+    background: lightpink;
+}
+
+.box2 {
+    background: olive;
+/*        position: absolute;
+*/    top: 10px;
+    left: 10px;
+}
+/*
+.box3 {
+    background: palegreen;
+        position: absolute;
+    top: 20px;
+    left: 25px;
+}
+
+.box4 {
+    background: khaki;
+            position: absolute;
+    top: 30px;
+    left: 40px;
+}
+*/
+
+ul {
+    list-style: inside hiragana;
+}
+
+overflow: scroll;
+
+display:table
+display:table-cell
+display:table-row
+
+.click {
+    cursor: pointer;
+}
+
+body {
+    background: url('favicon.png') fixed;
+}
